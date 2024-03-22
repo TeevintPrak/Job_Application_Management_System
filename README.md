@@ -1,6 +1,6 @@
-# CPSC 304: Career Networking System
+# CPSC 304: Job Application Management System
 
-The Career Networking System aims to provide jobseekers with a holistic history and management system to keep track of applications and their related aspects (including resumes/cover letters, people, and reference letters), listings, and interviews. The idea is like how companies’ track applicants with various HR systems. Users can create a job posting, fill the attributes, location, and skill and experience requirements. They can paste document content such as resumes and cover letters for the corresponding job posting and see a version history of resumes and cover letters and the jobs associated. Users can add interviews conducted for the job postings, change the type/stage, and include the people involved and their employer.
+The Job Application Management System aims to provide jobseekers with a holistic history and management system to keep track of applications and their related aspects (including resumes/cover letters, people, and reference letters), listings, and interviews. The idea is like how companies’ track applicants with various HR systems. Users can create a job posting, fill the attributes, location, and skill and experience requirements. They can paste document content such as resumes and cover letters for the corresponding job posting and see a version history of resumes and cover letters and the jobs associated. Users can add interviews conducted for the job postings, change the type/stage, and include the people involved and their employer.
 
 ## Credit
 
